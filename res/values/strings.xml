@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Assignment1</string>
+    <string name="editText1">fname</string>
+    <string name="editText2">lname</string>
+    <string name="editText3">AGE</string>
+    <string name="editText4">Search Field</string>
+    <string name="button1">Insert</string>
+    <string name="button2">Go Search</string>
+
+
+
+</resources>
